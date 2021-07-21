@@ -1,2 +1,2 @@
-from git import lenght
+from music import lenght
 print(lenght.second("Mi"))
