@@ -1,2 +1,2 @@
 from music import *
-print(fifth_lenght("Dob", mode='sfdsdf'))
+print(second_lenght("Do", mode='m'))
